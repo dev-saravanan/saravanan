@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "inter";
+  src: url("./assets/fonts/Inter/Inter-VariableFont_slnt,wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "raleway";
+  src: url("./assets/fonts/Raleway/Raleway-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "dancing-script";
+  src: url("./assets/fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
