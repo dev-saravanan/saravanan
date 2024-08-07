@@ -10,7 +10,7 @@ const CertificateItem = (props) => {
     <Popup
       trigger={
         <button
-          className={`w-32 h-22 md:w-44 md:h-28 lg:w-64 lg:h-44 m-1 outline-none ${className}`}
+          className={`w-11/12 md:w-44 md:h-28 lg:w-64 lg:h-44 m-1 outline-none ${className}`}
         >
           <img className="w-full h-full" src={certificateImgUrl} />
         </button>
