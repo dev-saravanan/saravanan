@@ -19,7 +19,7 @@ const CertificateItem = (props) => {
       overlayStyle={overlayStyle}
     >
       {(close) => (
-        <div className="w-[50vw] bg-white p-1 rounded relative">
+        <div className="w-[90vw] bg-white p-1 rounded relative">
           <button
             className="bg-black text-white opacity-60 hover:opacity-80 p-1 md:p-3 rounded-full absolute top-3 right-3 outline-none"
             onClick={() => {
